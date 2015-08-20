@@ -1,0 +1,7 @@
+<icon src="playstore-icon.png" />
+<icon src="ldpi_ic_launcher.png" gap:platform="android" gap:density="ldpi" />
+<icon src="mdpi_ic_launcher.png" gap:platform="android" gap:density="mdpi" />
+<icon src="hdpi_ic_launcher.png" gap:platform="android" gap:density="hdpi" />
+<icon src="xhdpi_ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
+<icon src="xxhdpi_ic_launcher.png" gap:platform="android" gap:density="xxhdpi" />
+<icon src="xxxhdpi_ic_launcher.png" gap:platform="android" gap:density="xxxhdpi" />
